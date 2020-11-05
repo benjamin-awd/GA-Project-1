@@ -1,1 +1,2 @@
-# GA-Project-1
+# GA Project 1: Analyzing SAT and ACT Scores
+First commit
