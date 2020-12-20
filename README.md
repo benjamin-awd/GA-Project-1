@@ -11,7 +11,7 @@ We found that states with a relatively low GDP per Capita and high ACT participa
 
 <img src="/assets/avg_score_scatter.png" width=1000 vertical-align=middle style=max-width:100%;>
 
-Given that North Carolina falls into the above group (high ACT participation, relatively low GDP, below average ACT scores) and has not yet committed to the Innovative Assessment pilot, <b>I recommend that the College Board work with North Carolina to raise SAT participation rates.</b>
+Given that South Carolina falls into the above group (high ACT participation, relatively low GDP, below average ACT scores) and has not yet committed to the Innovative Assessment pilot, <b>I recommend that the College Board work with South Carolina to raise SAT participation rates.</b>
 
 However, the College Board must take into account the growing movement against standardized testing. Instead of trying to pile on additional tests, the College Board must partner states in their effort to reduce over-testing and market the SAT as a tool to help with this process.
 
